@@ -1,0 +1,79 @@
+.col {
+  border: 3px solid #6c5ce7;
+  height: 300px;
+  margin: 7px;
+  position: relative;
+  background-size: cover;
+}
+h1 {
+  color: aliceblue;
+}
+
+.container {
+  text-align: center;
+  color: blue;
+}
+body {
+  background-image: url(imgs/background.jfif);
+
+}
+.img1 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-image: url(imgs/Lol1.jpeg);
+}
+.img2 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-image: url(imgs/Lol2.jpeg);
+}
+.img3 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-image: url(imgs/lol3.jpg);
+}
+.img4 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-image: url(imgs/lol4.jpg);
+}
+.img5 {
+  background-image: url(imgs/lol5.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img6 {
+    background-image: url(imgs/lol6.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img7 {
+    background-image: url(imgs/lol7.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img8 {
+    background-image: url(imgs/lol8.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img9 {
+    background-image: url(imgs/lol9.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img10 {
+    background-image: url(imgs/lol10.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
